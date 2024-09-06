@@ -1,5 +1,3 @@
-<br clear="both">
-
 <img align="left" height="308" src="https://scontent-ccu1-2.xx.fbcdn.net/v/t39.30808-6/308341968_1293539971449608_1236739306419487851_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeGkZedcq-UAiwQdRxMMS4n7Ztwa5gwhRXhm3BrmDCFFeA12Ii-Fk5W0AeHgf3ncXQdD-YSv0QS3uH4jygNWTsRv&_nc_ohc=srkIilGA8fMQ7kNvgHsShco&_nc_ht=scontent-ccu1-2.xx&_nc_gid=Axsd3cZfdgt2A1L8TRZQdYd&oh=00_AYANgCQYJWsgYvzQ0GzL0nwVX4dkXidnkwwEWHkMhyf8Wg&oe=66E0AF80"  />
 
 ###
