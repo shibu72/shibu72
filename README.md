@@ -6,32 +6,29 @@
 
 ###
 
-<h1 align="center">Hey There 👋</h1>
+<h1 align="center">hey there 👋</h1>
 
 ###
 
-<h3 align="left">👩‍💻 **About Me:**</h3>
-<p align="left">Hello! I’m Shawon Mondol Shibu, a dedicated MARN stack developer with a passion for building robust and scalable web applications. My journey in web development has led me to focus on React, Node.js, Express.js, and MongoDB, while I’m also diving into TailwindCSS and TypeScript to enhance my skills and stay up-to-date with modern technologies. I’m committed to creating intuitive user experiences and writing clean, efficient code. My background in both development and design allows me to approach problems from multiple angles, ensuring high-quality and aesthetically pleasing solutions.</p>
+<h3 align="left">👩‍💻  About Me: 👋 Hello! I’m Shawon Mondol Shibu, a dedicated MARN stack developer with a passion for building robust and scalable web applications. My journey in web development has led me to focus on React, Node.js, Express.js, and MongoDB, while I’m also diving into TailwindCSS and TypeScript to enhance my skills and stay up-to-date with modern technologies.<br>I’m committed to creating intuitive user experiences and writing clean, efficient code. My background in both development and design allows me to approach problems from multiple angles, ensuring high-quality and aesthetically pleasing solutions.</h3>
 
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/shawon-mondol-142302294" target="_blank">
+  <a href="www.linkedin.com/in/shawon-mondol-142302294" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://twitter.com/YourTwitterHandle" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   <a href="https://www.facebook.com/shawon.mondol.797" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
   </a>
-  <a href="https://wa.me/+8801812014377" target="_blank">
+  <a href="+8801812014377" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
   </a>
-  <a href="mailto:shawonmondol72@gmail.com" target="_blank">
+  <a href="shawonmondol72@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
-  <a href="https://t.me/YourTelegramHandle" target="_blank">
+  <a href="+8801812014377" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
 </div>
@@ -44,11 +41,11 @@
 
 ###
 
-<p align="left">I'm Shawon Mondol Shibu from Bangladesh<br><br>- 🔭 I’m working as a learner<br>- 📚 I'm currently learning: I’m always eager to learn and grow. Right now, I’m focused on deepening my understanding of TypeScript and exploring advanced features of React and Node.js to build even more powerful and scalable applications.<br>- ⚡ In my free time, I practice my code.</p>
+<p align="left">I'm Shawon Mondol Shibu from Bangladesh<br><br>- 🔭 I’m working as a learner<br>- 📚 I'm currently learning : I’m always eager to learn and grow. Right now, I’m focused on deepening my understanding of TypeScript and exploring advanced features of React and Node.js to build even more powerful and scalable applications<br>- ⚡ In my free time I am practice my code</p>
 
 ###
 
-<h3 align="left">🛠 Language and Tools</h3>
+<h3 align="left">🛠 Language and tools</h3>
 
 ###
 
@@ -93,10 +90,12 @@
 
 ###
 
-<h3 align="left">🔥 My Stats:</h3>
+<h3 align="left">🔥   My Stats :</h3>
 
 ###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=shibu72&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+
+###
