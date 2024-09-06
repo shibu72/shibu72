@@ -1,4 +1,4 @@
-<img align="left" height="308" src="https://scontent-ccu1-2.xx.fbcdn.net/v/t39.30808-6/308341968_1293539971449608_1236739306419487851_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeGkZedcq-UAiwQdRxMMS4n7Ztwa5gwhRXhm3BrmDCFFeA12Ii-Fk5W0AeHgf3ncXQdD-YSv0QS3uH4jygNWTsRv&_nc_ohc=srkIilGA8fMQ7kNvgHsShco&_nc_ht=scontent-ccu1-2.xx&_nc_gid=Axsd3cZfdgt2A1L8TRZQdYd&oh=00_AYANgCQYJWsgYvzQ0GzL0nwVX4dkXidnkwwEWHkMhyf8Wg&oe=66E0AF80"  />
+<img align="left" height="500" src="https://scontent-ccu1-2.xx.fbcdn.net/v/t39.30808-6/308341968_1293539971449608_1236739306419487851_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeGkZedcq-UAiwQdRxMMS4n7Ztwa5gwhRXhm3BrmDCFFeA12Ii-Fk5W0AeHgf3ncXQdD-YSv0QS3uH4jygNWTsRv&_nc_ohc=srkIilGA8fMQ7kNvgHsShco&_nc_ht=scontent-ccu1-2.xx&_nc_gid=Axsd3cZfdgt2A1L8TRZQdYd&oh=00_AYANgCQYJWsgYvzQ0GzL0nwVX4dkXidnkwwEWHkMhyf8Wg&oe=66E0AF80"  />
 
 ###
 
@@ -27,11 +27,13 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me: 👋 Hello! I’m Shawon Mondol Shibu, a dedicated MARN stack developer with a passion for building robust and scalable web applications. My journey in web development has led me to focus on React, Node.js, Express.js, and MongoDB, while I’m also diving into TailwindCSS and TypeScript to enhance my skills and stay up-to-date with modern technologies.<br>I’m committed to creating intuitive user experiences and writing clean, efficient code. My background in both development and design allows me to approach problems from multiple angles, ensuring high-quality and aesthetically pleasing solutions.</h3>
+<h4 align="left">👩‍💻  About Me: 👋 Hello! I’m Shawon Mondol Shibu, a dedicated MARN stack developer with a passion for building robust and scalable web applications. My journey in web development has led me to focus on React, Node.js, Express.js, and MongoDB, while I’m also diving into TailwindCSS and TypeScript to enhance my skills and stay up-to-date with modern technologies.<br>I’m committed to creating intuitive user experiences and writing clean, efficient code. My background in both development and design allows me to approach problems from multiple angles, ensuring high-quality and aesthetically pleasing solutions.</h4>
 
 ###
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=shibu72.shibu72&"  />
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=shibu72.shibu72&"  />
+</div>
 
 ###
 
@@ -91,9 +93,5 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=shibu72&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/shibu72/shibu72/output/snake.svg" alt="Snake animation" />
 
 ###
