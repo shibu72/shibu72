@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me: 👋 Hello! I’m Shawon Mondol Shibu, a dedicated MARN stack developer with a passion for building robust and scalable web applications. My journey in web development has led me to focus on React, Node.js, Express.js, and MongoDB, while I’m also diving into TailwindCSS and TypeScript to enhance my skills and stay up-to-date with modern technologies.<br>I’m committed to creating intuitive user experiences and writing clean, efficient code. My background in both development and design allows me to approach problems from multiple angles, ensuring high-quality and aesthetically pleasing solutions.</h3>
+<h3 align="left">👩‍💻  About Me: 👋 <p>Hello! I’m Shawon Mondol Shibu, a dedicated MARN stack developer with a passion for building robust and scalable web applications. My journey in web development has led me to focus on React, Node.js, Express.js, and MongoDB, while I’m also diving into TailwindCSS and TypeScript to enhance my skills and stay up-to-date with modern technologies.<br>I’m committed to creating intuitive user experiences and writing clean, efficient code. My background in both development and design allows me to approach problems from multiple angles, ensuring high-quality and aesthetically pleasing solutions.</p></h3>
 
 ###
 
