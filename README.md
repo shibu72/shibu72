@@ -1,104 +1,64 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+# 👋 Hi, I'm Shawon Mondol Shibu!
 
-###
+I'm a passionate **Full Stack Web Developer** from Bangladesh 🇧🇩  
+Currently exploring the world of modern web development with a deep focus on **MERN Stack**, **TypeScript**, and **Next.js**.  
+I love building clean, efficient, and scalable products — whether it's for freelance clients, open source contributions, or my personal projects.  
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
+---
 
-###
+## 🧠 Tech Stack
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=shibu72.shibu72&"  />
-</div>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
 
-###
+---
 
-<h1 align="center">hey there 👋</h1>
+## 🚀 Current Goals
 
-###
+- 🔨 Building my portfolio website  
+- 🤝 Collaborating on open-source projects  
+- 💼 Getting started with freelance work  
+- 🧩 Leveling up my design-to-code skills
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/shibu72/count.svg?"  />
-</div>
+---
 
-###
+## 😎 Fun Facts
 
-<h3 align="left">👩‍💻  About Me</h3>
+- 🔭 I'm an INTJ mastermind-type dev
+- 🌙 Love working late at night (or super early mornings 😅)
+- 🎨 Design is my second language
+- 💡 I enjoy creating efficient tools, clean UIs, and useful things
 
-###
+---
 
-<p align="left">I'm Shawon Mondol Shibu from Bangladesh.<br><br>- 🔭 I’m working as self employe.<br>- 📚 I'm currently learning MERN Stack, Python, Rust.<br>- ⚡ In my free time I like to walk in nature.</p>
+## 📫 Contact Me
 
-###
+- 📧 Email: [shawonmondol72@gmail.com](mailto:shawonmondol72@gmail.com)
+- 🌐 Portfolio: [shawon-portfolio-self.vercel.app](https://shawon-portfolio-self.vercel.app)
+- 💼 LinkedIn: [linkedin.com/in/shawon-mondol-142302294](https://www.linkedin.com/in/shawon-mondol-142302294)
+- 📘 Facebook: [facebook.com/shawon.mondol.797](https://www.facebook.com/shawon.mondol.797)
 
-<h3 align="left">🛠 Language and tools</h3>
+---
 
-###
+## 📊 GitHub Stats
 
-<br clear="both">
+![Shibu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shibu72&show_icons=true&theme=default&hide_title=false)
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Apple-000000?logo=apple&logoColor=white&style=for-the-badge" height="40" alt="apple logo"  />
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shibu72&layout=compact&theme=default)
 
-###
+---
 
-<h3 align="left">🔥   My Stats :</h3>
+> "Code like an artist, think like an engineer." 💻🎯
 
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shibu72&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shibu72&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=shibu72&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/shibu72/shibu72/output/snake.svg" alt="Snake animation" />
-
-###
