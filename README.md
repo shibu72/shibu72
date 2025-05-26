@@ -40,6 +40,8 @@
 
 ###
 
+<br clear="both">
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -78,11 +80,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=shibu72&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
+<br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shibu72&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -91,10 +89,16 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shibu72/shibu72/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shibu72/shibu72/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/shibu72/shibu72/output/pacman-contribution-graph.svg">
-</picture>
+<br clear="both">
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=shibu72&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/shibu72/shibu72/output/snake.svg" alt="Snake animation" />
 
 ###
