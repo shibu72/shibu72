@@ -88,8 +88,6 @@
   </a>
 </div>
 
----
-
 <h3 align="center">📊 GitHub Stats & Activity</h3>
 
 <table align="center">
