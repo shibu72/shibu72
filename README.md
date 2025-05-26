@@ -73,16 +73,16 @@
 <div align="center">
 <h3 align="left">📬 Contact With Me</h3>
 
-<div align="left" display="grid">
+<div align="left">
   <a href="mailto:shawonmondol72@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+  </a> <br/>
   <a href="https://www.linkedin.com/in/shawon-mondol-142302294" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+  </a> <br/>
   <a href="https://www.facebook.com/shawon.mondol.797" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
+  </a><br/>
   <a href="https://shawon-portfolio-self.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
