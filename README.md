@@ -71,7 +71,8 @@
 
 ---
 
-<div style="display: flex;  width: 600px;">
+<div style="display: flex; justify-content: space-between; align-items:center;   width: 600px;">
+  
 <h3 align="left">📬 Contact With Me</h3>
 
 <div align="left">
@@ -88,6 +89,7 @@
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
+
 
 <h3 align="center">📊 GitHub Stats & Activity</h3>
   <a href="https://github.com/shibu72">
