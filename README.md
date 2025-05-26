@@ -89,25 +89,16 @@
 </div>
 
 <h3 align="center">📊 GitHub Stats & Activity</h3>
+  <a href="https://github.com/shibu72">
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=shibu72&show_icons=true&theme=dark" />
+  </a>
+  <a href="https://github.com/shibu72">
+    <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=shibu72&theme=dark" />
+  </a>
+  <a href="https://github.com/shibu72">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shibu72&layout=compact&theme=dark" />
+  </a>
 
-<table align="center">
-  <tr>
-    <td align="center" valign="top">
-      <a href="https://github.com/shibu72">
-        <img height="150" src="https://github-readme-stats.vercel.app/api?username=shibu72&show_icons=true&theme=dark" />
-      </a>
-      <br/>
-      <a href="https://github.com/shibu72">
-        <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=shibu72&theme=dark" />
-      </a>
-    </td>
-    <td align="center" valign="top">
-      <a href="https://github.com/shibu72">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shibu72&layout=compact&theme=dark" />
-      </a>
-    </td>
-  </tr>
-</table>
 </div>
 ---
 
