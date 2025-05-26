@@ -93,7 +93,7 @@
 
 <h3 align="center">📊 GitHub Stats & Activity</h3>
 
-<div>
+<div align="center">
   <a href="https://github.com/shibu72">
     <img height="150" src="https://github-readme-stats.vercel.app/api?username=shibu72&show_icons=true&theme=dark" />
   </a>
