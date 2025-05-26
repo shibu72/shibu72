@@ -71,7 +71,6 @@
 
 ---
 
-<div style="display: flex; justify-content: space-between; align-items:center;   width: 600px;">
   
 <h3 align="left">📬 Contact With Me</h3>
 
@@ -90,8 +89,11 @@
   </a>
 </div>
 
+---
 
 <h3 align="center">📊 GitHub Stats & Activity</h3>
+
+<div>
   <a href="https://github.com/shibu72">
     <img height="150" src="https://github-readme-stats.vercel.app/api?username=shibu72&show_icons=true&theme=dark" />
   </a>
@@ -102,6 +104,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shibu72&layout=compact&theme=dark" />
   </a>
 </div>
+
 ---
 
 > “Code like an artist, think like an engineer.” 🎯
