@@ -1,49 +1,52 @@
-# 👋 Hi, I'm Shawon Mondol Shibu!
-
-I'm a passionate **Full Stack Web Developer** from Bangladesh 🇧🇩  
-Currently exploring the world of modern web development with a deep focus on **MERN Stack**, **TypeScript**, and **Next.js**.  
-I love building clean, efficient, and scalable products — whether it's for freelance clients, open source contributions, or my personal projects.  
+<h1 align="center">Hi 👋, I'm Shawon Mondol Shibu</h1>
+<h3 align="center">Full Stack Developer | MERN Stack | TypeScript Lover | Open Source Enthusiast</h3>
 
 ---
 
-## 🧠 Tech Stack
+### 🧑‍💻 About Me
 
+- 🔭 Currently working on my **portfolio website**
+- 🤝 Looking to collaborate on **open source projects**
+- 👨‍💻 Love building **scalable, clean & efficient products**
+- 💼 Aspiring **freelancer** with modern dev skills
+- 🧠 Always learning new tech & frameworks
+
+---
+
+### 💻 Tech Stack
+
+#### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+
+#### Backend & DB
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+#### Others
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
 
 ---
 
-## 🚀 Current Goals
+### 🧩 Fun Facts
 
-- 🔨 Building my portfolio website  
-- 🤝 Collaborating on open-source projects  
-- 💼 Getting started with freelance work  
-- 🧩 Leveling up my design-to-code skills
-
----
-
-## 😎 Fun Facts
-
-- 🔭 I'm an INTJ mastermind-type dev
-- 🌙 Love working late at night (or super early mornings 😅)
-- 🎨 Design is my second language
-- 💡 I enjoy creating efficient tools, clean UIs, and useful things
+- 🧠 I'm an **INTJ** – strategic, focused & creative
+- 🌙 Love working late at night or super early (4–5 AM club 😴☕)
+- 🎨 Design enthusiast — clean UI is my addiction
+- 🔧 Passionate about building meaningful tools and apps
 
 ---
 
-## 📫 Contact Me
+### 📬 Connect With Me
 
 - 📧 Email: [shawonmondol72@gmail.com](mailto:shawonmondol72@gmail.com)
 - 🌐 Portfolio: [shawon-portfolio-self.vercel.app](https://shawon-portfolio-self.vercel.app)
@@ -52,13 +55,21 @@ I love building clean, efficient, and scalable products — whether it's for fre
 
 ---
 
-## 📊 GitHub Stats
+### 📈 GitHub Stats
 
-![Shibu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shibu72&show_icons=true&theme=default&hide_title=false)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shibu72&show_icons=true&theme=default" alt="shibu72's GitHub stats" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shibu72&layout=compact&theme=default)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shibu72&theme=default" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shibu72&layout=compact&theme=default" alt="Top Langs" />
+</p>
 
 ---
 
-> "Code like an artist, think like an engineer." 💻🎯
+> “Code like an artist, think like an engineer.” 🎯
 
