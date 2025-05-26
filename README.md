@@ -22,7 +22,7 @@
       <!-- 🧠 Frontend -->
       <td valign="top" align="center" style="padding: 0 20px;">
         <h4>🧠 Frontend</h4>
-        <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 6px; max-width: 250px; margin: auto;">
+        <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 6px; max-width: 200px; margin: auto;">
           <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
           <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
           <img src="https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white" alt="SASS"/>
@@ -36,7 +36,7 @@
       <!-- 🧰 Backend -->
       <td valign="top" align="center" style="padding: 0 20px;">
         <h4>🧰 Backend</h4>
-        <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 6px; max-width: 300px; margin: auto;">
+        <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 6px; max-width: 200px; margin: auto;">
           <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js"/>
           <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.js"/>
           <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"/>
@@ -52,7 +52,7 @@
       <!-- 🎨 OS & Design -->
       <td valign="top" align="center" style="padding: 0 20px;">
         <h4>🎨 OS & Design</h4>
-        <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 6px; max-width: 300px; margin: auto;">
+        <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 6px; max-width: 200px; margin: auto;">
           <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux"/>
           <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" alt="Windows"/>
           <img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white" alt="macOS"/>
@@ -64,7 +64,7 @@
       <!-- 🧪 Others -->
       <td valign="top" align="center" style="padding: 0 20px;">
         <h4>🧪 Others</h4>
-        <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 6px; max-width: 300px; margin: auto;">
+        <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 6px; max-width: 200px; margin: auto;">
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
           <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" alt=".NET"/>
           <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" alt="Rust"/>
