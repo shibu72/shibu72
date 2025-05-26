@@ -71,7 +71,7 @@
 
 ---
 
-<div style="display: flex; ">
+<div style="display: flex;  width: 600px;">
 <h3 align="left">📬 Contact With Me</h3>
 
 <div align="left">
@@ -93,7 +93,6 @@
   <a href="https://github.com/shibu72">
     <img height="150" src="https://github-readme-stats.vercel.app/api?username=shibu72&show_icons=true&theme=dark" />
   </a>
-  <br/>
   <a href="https://github.com/shibu72">
     <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=shibu72&theme=dark" />
   </a>
