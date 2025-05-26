@@ -71,6 +71,7 @@
 
 ---
 
+<div style="display: flex; ">
 <h3 align="left">📬 Contact With Me</h3>
 
 <div align="left">
@@ -99,7 +100,7 @@
   <a href="https://github.com/shibu72">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shibu72&layout=compact&theme=dark" />
   </a>
-
+</div>
 ---
 
 > “Code like an artist, think like an engineer.” 🎯
