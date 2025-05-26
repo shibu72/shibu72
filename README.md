@@ -26,17 +26,21 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-#### 🧠 Backend & Tools
+#### 🧠 Backend & DB
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+#### ⚙️ Others
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 
-#### 🎨 Design & OS
+#### 🧑‍🎨 Design & OS
 ![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)
 ![GIMP](https://img.shields.io/badge/GIMP-5C5543?style=flat&logo=gimp&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
 
@@ -44,10 +48,10 @@
 
 ### 🧩 Fun Facts
 
-- 🧠 I'm an **INTJ** – strategic, focused & creative
-- 🌙 Love working late at night or super early (4–5 AM club 😴☕)
-- 🎨 Design enthusiast — clean UI is my addiction
-- 🔧 Passionate about building meaningful tools and apps
+- 🧠 I'm an **INTJ-A** – strategic, focused & creative
+- 🌙 Love working **late at night** or waking up super early (4–5 AM club)
+- 🎨 Design is my vibe — clean UI = real love
+- 🔧 Obsessed with **building meaningful tools & solving real problems**
 
 ---
 
