@@ -75,7 +75,7 @@
   
 <h3 align="left">📬 Contact With Me</h3>
 
-<div align="left">
+<div align="left" style="width: 100px">
   <a href="mailto:shawonmondol72@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a> <br/>
