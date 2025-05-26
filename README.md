@@ -70,7 +70,7 @@
 - 🔧 Obsessed with **building meaningful tools & solving real problems**
 
 ---
-
+<div align="center">
 <h3 align="center">📬 Contact With Me</h3>
 
 <div align="center">
@@ -110,7 +110,7 @@
     </td>
   </tr>
 </table>
-
+</div>
 ---
 
 > “Code like an artist, think like an engineer.” 🎯
