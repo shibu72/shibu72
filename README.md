@@ -71,7 +71,7 @@
 
 ---
 <div align="center">
-<h3 align="center">📬 Contact With Me</h3>
+<h3 align="left">📬 Contact With Me</h3>
 
 <div align="center" display="grid">
   <a href="mailto:shawonmondol72@gmail.com" target="_blank">
