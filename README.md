@@ -70,7 +70,7 @@
 - 🔧 Obsessed with **building meaningful tools & solving real problems**
 
 ---
-<div align="center">
+
 <h3 align="left">📬 Contact With Me</h3>
 
 <div align="left">
@@ -100,7 +100,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shibu72&layout=compact&theme=dark" />
   </a>
 
-</div>
 ---
 
 > “Code like an artist, think like an engineer.” 🎯
