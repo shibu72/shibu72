@@ -73,7 +73,7 @@
 
 <h3 align="center">📬 Contact With Me</h3>
 
-<p align="center">
+<div align="center">
   <a href="mailto:shawonmondol72@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
@@ -86,26 +86,30 @@
   <a href="https://shawon-portfolio-self.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-</p>
+</div>
 
 ---
 
-### 📊 GitHub Stats & Activity
+<h3 align="center">📊 GitHub Stats & Activity</h3>
 
-<div align="center">
-  <a href="https://github.com/shibu72">
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=shibu72&show_icons=true&theme=dark" />
-  </a>
-  <a href="https://github.com/shibu72">
-    <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=shibu72&theme=dark" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/shibu72">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shibu72&layout=compact&theme=dark" />
-  </a>
-</div>
+<table align="center">
+  <tr>
+    <td align="center" valign="top">
+      <a href="https://github.com/shibu72">
+        <img height="150" src="https://github-readme-stats.vercel.app/api?username=shibu72&show_icons=true&theme=dark" />
+      </a>
+      <br/>
+      <a href="https://github.com/shibu72">
+        <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=shibu72&theme=dark" />
+      </a>
+    </td>
+    <td align="center" valign="top">
+      <a href="https://github.com/shibu72">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shibu72&layout=compact&theme=dark" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
